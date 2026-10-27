@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #a83211;
+  --color-primary-container: #ca4a28;
+  --color-on-primary: #ffffff;
+  --color-surface: #fff8f4;
+  --color-surface-container: #f4ece7;
+  --color-surface-container-low: #faf2ed;
+  --color-surface-container-lowest: #ffffff;
+  --color-on-surface: #1e1b18;
+  --color-on-surface-variant: #59413b;
+  --color-secondary-container: #7cf994;
+  --color-on-secondary-container: #007230;
+  --color-tertiary-fixed: #ffdbca;
+  --color-on-tertiary-fixed: #341100;
+  --color-primary-fixed: #ffdbd1;
+  --color-on-primary-fixed: #3c0800;
+  --color-inverse-surface: #33302c;
+  --color-inverse-on-surface: #f7efea;
+  --color-secondary-fixed: #7ffc97;
+  --font-headline: "Plus Jakarta Sans", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --spacing-gutter-mobile: 1rem;
+  --spacing-space-xs: 0.25rem;
+  --spacing-space-sm: 0.5rem;
+  --spacing-space-md: 1rem;
+  --spacing-space-lg: 1.5rem;
+  --spacing-space-xl: 2.5rem;
+}
